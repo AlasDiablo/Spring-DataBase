@@ -1,0 +1,23 @@
+{
+  "tables": {
+    "user": {},
+    "nes": {
+      "game": "Hey Game",
+      "name": "Hey",
+      "id": 4321
+    }
+  },
+  "tables_definitions": {
+    "test": {"id": "STRING"},
+    "user": {
+      "name": "STRING",
+      "id": "INTEGER",
+      "email": "STRING"
+    },
+    "nes": {
+      "game": "STRING",
+      "name": "STRING",
+      "id": "INTEGER"
+    }
+  }
+}
